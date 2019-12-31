@@ -1,0 +1,41 @@
+image1 {
+    position: relative;
+    width: 100%;
+}
+h1 {
+    background: url("Image1.jpeg");
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+h2.sh1 {
+    font-family:Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+h2.sh2 {
+    font-family:Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+h2.sh3 {
+    font-family:Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+emp.price1, emp.price2, emp.price3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+h3 {
+    font-family: Helvetica;
+}
